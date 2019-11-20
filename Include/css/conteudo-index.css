@@ -1,0 +1,68 @@
+#conteudo{
+	margin-top:250px;
+	width:1320px;
+	margin-left:10px;
+	height:700px;
+	background-color:white;
+	box-shadow: 0px 0px 10px 3px;
+	position:absolute;
+	display:inline-block;
+	border-radius:20px;
+	/*opacity:0.5;*/	
+}
+#img{
+	background-image:url(../img/eu.jpg);
+	background-repeat:no-repeat;
+	height:700px;
+	width:700px;
+	border-radius:10px;
+	
+}
+#texto{
+	font-size:22px;
+	font-family:Trebuchet MS;
+	letter-spacing:2px;
+	text-align:right;	
+	margin-top:-600px;
+	margin-left:550px;
+	height:600px;
+	width:700px;	
+}
+#insta{
+	width:50px;
+	height:auto;
+	margin-left:550px;
+	margin-top:-100px;
+	position:absolute;
+	display:block;
+}
+#vp{
+	color:black;
+	margin-left:50px;
+	margin-top:-110px;
+}
+#vp:hover{
+	color:red;
+	
+}
+
+#face{
+	width:50px;
+	height:auto;
+	margin-left:552px;
+	margin-top:-180px;
+	position:absolute;
+	display:block;	
+}
+#v{
+	color:black;
+	margin-left:50px;
+	text-transform:capitalize;
+	white-space: no-wrap;
+	
+}
+#v:hover{
+	color:red;
+}
+	
+

@@ -1,0 +1,66 @@
+.background {
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    width: 35%;
+    height: 455px;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+h2 {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 300px;
+    padding: 10px;
+    background-color: #1a1a1a;
+    width: 493px;
+    height: 60px;
+    color: white;
+    margin-top: -30px;
+}
+
+.menu {
+    height: 100px;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 3px;
+}
+
+.btns {
+    position: relative;
+    margin-left: 1100px;
+    margin-top: -50px;
+}
+
+
+/* visual do input data  */
+
+#dataNascimento {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+
+/*para distaciar os radios*/
+
+#checkF {
+    margin-left: 65px;
+}
+
+
+/* largura da tabela */
+
+#larguraTabela {
+    width: 1000px;
+    margin-left: -70px;
+}
